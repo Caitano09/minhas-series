@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="public/images/logo.png" width="120">
+  <img src="minhasSeries/public/images/logo.png" width="120">
 <br>
 <br>
 </h1>
