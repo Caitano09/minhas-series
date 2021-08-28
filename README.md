@@ -17,7 +17,7 @@ This project is to help you manage your series</p>
 [//]: # (Add your gifs/images here:)
 <div align="center">
 
-  <img src="public/minhasSeries.gif" alt="demo">
+  <img src="minhasSeries/public/minhasSeries.gif" alt="demo">
 </div>
 <hr />
 
